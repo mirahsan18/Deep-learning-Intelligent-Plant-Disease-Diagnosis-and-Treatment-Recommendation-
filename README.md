@@ -1,0 +1,2 @@
+# Deep-learning-Intelligent-Plant-Disease-Diagnosis-and-Treatment-Recommendation-
+Agriculture is the backbone of every economy and a vital  sector that caters to food security and economic development.  Plant diseases have a big impact on crop yield and its quality,  causing huge losses each year. Early detection and diagnosis  of the disease are very essential in order to avoid spreading the  same and for its treatment .
